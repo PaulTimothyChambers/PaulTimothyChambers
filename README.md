@@ -1,4 +1,4 @@
-## Why User-Experience is Important to Me
+## Why I Closed My Business and Learned to Program
 
 ***Countless hours spent on Microsoft Word documents...***
 
