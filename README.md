@@ -1,4 +1,4 @@
-## Why the User-Experience is Important to Me
+## Why User-Experience is Important to Me
 
 ***Countless hours spent on Microsoft Word documents...***
 
