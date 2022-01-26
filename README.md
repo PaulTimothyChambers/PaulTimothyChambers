@@ -8,7 +8,7 @@
 
 &emsp; However, when it comes to crafting meaningful and memorable user experiences, the world of computer programming is unmatched. The user experience can be finely tuned to a far, far greater degree, as the programmer not only has full control over the functionality of a product, but over the very ***context*** that functionality exists within. Think of the difference between listening to an album while driving around versus going to a concert to hear it live... or the difference between viewing the Mona Lisa on Google images versus visiting the Louvre to see it in person... context changes ***everything***. 
 
-&emsp; As a developer, I now have access to the uniquely powerful tools of software engineering; and as such, I am eager to take on the unique set of challenges that are part-and-parcel of meeting the individual needs of your clients, whoever they (or you) may be.
+&emsp; As a developer, I now have access to the uniquely powerful tools of software engineering; and as such, I am eager to take on the unique set of challenges that are part-and-parcel of meeting the individual needs of those clients I serve.
 
 ### Languages + Frameworks/Libraries:
 
