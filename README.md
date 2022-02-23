@@ -1,4 +1,4 @@
-&emsp;Hi, I'm Paul!
+## Hi, I'm Paul!
 
 &emsp;I am an alum of the Turing School of Software and Design, where I learned front-end programming. In my free time, I teach myself the back-end side of programming, from learning Python3 to setting up my own databases and (eventually) endpoints, as I aspire to gain profficiency as a full-stack developer.
 
