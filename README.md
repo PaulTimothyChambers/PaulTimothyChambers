@@ -1,14 +1,6 @@
-## Why I Closed My Business and Learned to Program
+Hi, I'm Paul!
 
-***Countless hours spent on Microsoft Word documents...***
-
-&emsp; As a youngster, using MS Word's rudimentary line/coloring tools to painstakingly "draw" game pieces on a blank computer page enabled me to copy/paste my creations en masse across the white, digital canvas. Negotiations would then commence with my parents as I lobbied for printing as many full-color copies as I could talk them out of. Hours more passed, and these game pieces would have been carefully cut out and stacked in neat piles, as I tooled a rule-set for the new game. Once completed, I would hand over the pieces (plus dice) to my two younger brothers, who would then spend the rest of the day play-testing. I would record down their comments/criticisms for each game, then refine the rules to make the experience more fair, balanced, and (ultimately) fun for them as users.
-
-&emsp; The user's experience has always been paramount to me. Before learning to program, I owned and operated a small, house-painting business, the greatest satisfaction of which came in taking time to understand the needs of each potential client. After careful consideration, one or more bid contracts would be drawn up. The first bid would always directly address their expressed needs. The others would typically extrapolate on those needs and, when combined with my industry knowledge, would often reveal avenues we could take along the way that achieved much more favorable cost/benefit ratios.
-
-&emsp; However, when it comes to crafting meaningful and memorable user experiences, the world of computer programming is unmatched. The user experience can be finely tuned to a far, far greater degree, as the programmer not only has full control over the functionality of a product, but over the very ***context*** that functionality exists within. Think of the difference between listening to an album while driving around versus going to a concert to hear it live... or the difference between viewing the Mona Lisa on Google images versus visiting the Louvre to see it in person... context changes ***everything***. 
-
-&emsp; As a developer, I now have access to the uniquely powerful tools of software engineering; and as such, I am eager to take on the unique set of challenges that are part-and-parcel of meeting the individual needs of those clients I serve.
+I am an alum of the Turing School of Software and Design, where I learned front-end programming. In my free time, I teach myself the back-end side of programming, from learning Python3 to setting up my own databases and (eventually) endpoints, as I aspire to gain profficiency as a full-stack developer.
 
 ### Languages + Frameworks/Libraries:
 
