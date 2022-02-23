@@ -2,7 +2,7 @@
 
 &emsp;I am an alum of the Turing School of Software and Design, where I learned front-end programming. In my free time, I teach myself the back-end side of programming, from learning Python3 to setting up my own databases and (eventually) endpoints, as I aspire to gain profficiency as a full-stack developer.
 
-### Languages + Frameworks/Libraries:
+&emsp;### Languages + Frameworks/Libraries:
 
 <section>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -15,7 +15,7 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
 </section>
 
-### Tools:
+&emsp;### Tools:
 
 <section>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -24,7 +24,7 @@
   <img alt="Houdini" src="https://img.shields.io/badge/houdini%20-%23FF4713.svg?&style=for-the-badge&logo=houdini&logoColor=white"/>
 </section>
   
-### Testing:
+&emsp;### Testing:
 
 <section>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>  
