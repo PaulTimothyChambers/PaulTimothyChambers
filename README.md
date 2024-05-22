@@ -13,7 +13,6 @@ I am an alum of the Turing School of Software and Design, where I gained technic
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="JSX" src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23?style=for-the-badge&logo=C%23"/>
 </section>
 
 ### Tools:
