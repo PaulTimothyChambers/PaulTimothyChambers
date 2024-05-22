@@ -1,10 +1,15 @@
 ## Hi, I'm Paul!
 
-I am an alum of the Turing School of Software and Design, where I gained technical training in a front-end programming tech stack, and furthered the ongoing development of the my soft skills. In my free time, I teach myself the back-end side of programming, from learning Python 3 to setting up my own databases and (eventually) endpoints, as I aspire to gain profficiency as a full-stack developer.
+I am an alum of the Turing School of Software and Design, where I gained technical training in a front-end programming tech stack, and furthered the ongoing development of the my soft skills. I have volunteered work as a Lead Front-End Developer and worked professionally as a Full-Stack Developer with an emphasis in managing/expanding upon a massive, automated data collections/transformation system. 
 
 ### Languages + Frameworks/Libraries:
 
 <section>
+  <img alt="C#" src="https://img.shields.io/badge/C%20Sharp-54A6C9?style=for-the-badge&logo=C%23"/>
+  <img alt="Blazor" src="https://img.shields.io/badge/Blazor-BE74AD?style=for-the-badge&logo=Blazor"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-85A470?style=for-the-badge&logo=SQL"/>
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-CCE9FF?style=for-the-badge&logo=Xcode"/>
+  <img alt="ReactNative" src="https://img.shields.io/badge/React%20Native-F2E9BA?style=for-the-badge&logo=React"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Svelte" src="https://img.shields.io/badge/svelte%20-white.svg?style=for-the-badge&logo=svelte&logoColor=%23FF3E00"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
@@ -18,6 +23,9 @@ I am an alum of the Turing School of Software and Design, where I gained technic
 ### Tools:
 
 <section>
+  <img alt="QGIS" src="https://img.shields.io/badge/QGIS-E4F6EF?style=for-the-badge&logo=QGIS"/>
+  <img alt="Microsoft SQL Server Management Studio" src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20Management%20Studio-D4E0E8?style=for-the-badge&logo=MSSMS"/>
+  <img alt="Fiddler" src="https://img.shields.io/badge/Fiddler-99FAA5?style=for-the-badge&logo=Fiddler"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
@@ -28,7 +36,7 @@ I am an alum of the Turing School of Software and Design, where I gained technic
 
 <section>
   <img alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>  
-  <img alt="Chai" src="https://camo.githubusercontent.com/dc1b092fdeb7e14a149274315b4d53632d98e5ff80d94f3fc04bf2f995369b31/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861692d4131313430343f7374796c653d666f722d7468652d6261646765266c6f676f3d63686169266c6f676f436f6c6f723d7768697465"/>
+  <img alt="Chai" src="https://img.shields.io/badge/Chai-92AF04?style=for-the-badge&logo=Chai"/>
   <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?&style=for-the-badge&logo=mocha&logoColor=white"/>
 </section>
 
