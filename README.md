@@ -1,6 +1,6 @@
 ## Hi, I'm Paul!
 
-I am an alum of the Turing School of Software and Design, where I gained technical training in a front-end programming tech stack, and furthered the ongoing development of the my soft skills. I have volunteered work as a Lead Front-End Developer and worked professionally as a Full-Stack Developer with an emphasis in managing/expanding upon a massive, automated data collections/transformation system. 
+I am a dynamic software developer with a strong foundation in C#, SQL, and Blazor, and a proven track record of developing efficient data collection systems and innovative applications. I am experienced in migrating codebases, redesigning user interfaces, and collaborating on high-value projects, skilled in Agile methodologies and proficient in a wide range of programming languages and tools, and committed to the continuous learning/leveraging of technology to solve complex problems.
 
 ### Languages + Frameworks/Libraries:
 
