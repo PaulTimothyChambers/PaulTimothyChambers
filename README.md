@@ -18,6 +18,7 @@ I am a dynamic software developer with a strong foundation in C#, SQL, and Blazo
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="JSX" src="https://img.shields.io/badge/JSX%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>    
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
+  <img alt="Houdini" src="https://img.shields.io/badge/houdini%20-%23FF4713.svg?&style=for-the-badge&logo=houdini&logoColor=white"/>
 </section>
 
 ### Tools:
@@ -29,7 +30,6 @@ I am a dynamic software developer with a strong foundation in C#, SQL, and Blazo
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Houdini" src="https://img.shields.io/badge/houdini%20-%23FF4713.svg?&style=for-the-badge&logo=houdini&logoColor=white"/>
 </section>
   
 ### Testing:
